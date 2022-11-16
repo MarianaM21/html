@@ -1,0 +1,113 @@
+.body{
+    margin: 20px;
+    padding: 0;
+    background: url(https://st.depositphotos.com/3008028/4294/i/600/depositphotos_42948809-stock-photo-frost-white-background-black-light.jpg);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    
+}
+.logo{
+    filter: drop-shadow(8px 8px 4px aqua);
+    text-align: center;
+    
+}
+.titulo{
+    text-align: center;
+}
+.navbar{
+   background: rgb(241, 166, 24);
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;   
+}
+.navbar a {
+color: #fff;
+display: inline-block;
+padding: 20px;
+width: 100%;
+text-align: center;
+color: #000;
+transition: .3s ease-out all;
+}
+.navbar a:hover {
+    background: #0ee24e;
+    color: #fff;
+    text-decoration: none;
+}
+.contenedor {
+    max-width: 1000px;
+     width: 85%;
+     margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.imagen1{
+   margin-top: 2px;
+    float: right;
+    background-color: #0ee24e;
+    width: 50%;
+    height: 290px;
+    margin-right: 10px;
+    border: solid;
+    filter: drop-shadow(8px 8px 4px blue);
+}
+.imagen3{
+    margin-top: 5px;
+    float: right;
+    background-color: #0ee24e;
+    width: 50%;
+    height: 250px;
+    margin-right: 10px;
+    border: solid;
+    filter: drop-shadow(8px 8px 4px blue);
+}
+.articulo1{
+    background-color: aqua;
+    width: 94%;
+    height: 300px;
+    margin-top: 40px;
+    margin-left: 50px;
+    margin-right: 40px;
+    border: solid blue;
+}
+.subtitulo1{
+    text-align: center;
+    font-size: arial;
+}
+.parrafo{
+    margin-left: 22px;
+    text-align: left;
+    font-size: arial;   
+}
+.articulo2{
+    background-color: aqua;
+    width: 94%;
+    height: 270px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 40px; 
+    border: solid blue;
+}
+.articulo3{
+    background-color: aqua;
+    width: 94%;
+    height: 270px;
+    margin-top: 10px;
+    margin-left: 50px;
+    margin-right: 40px; 
+    border: solid blue;  
+}
+.ultimo{
+    text-align: center;
+    margin-top: 20px;
+    height: 100px;
+    width: 100%;
+    padding: 2.5px;
+    float: left;
+    overflow:hidden;
+    text-align: center;
+    box-shadow: 0 0 20px 0;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

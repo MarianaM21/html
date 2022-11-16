@@ -1,0 +1,141 @@
+.body{
+    margin: 20px;
+    padding: 0;
+    background: url(https://static.vecteezy.com/system/resources/thumbnails/001/874/132/small/abstract-geometric-white-background-free-vector.jp);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    
+}
+.logo{
+    filter: drop-shadow(8px 8px 4px aqua);
+    text-align: center;
+    
+}
+.titulo{
+    text-align: center;
+}
+.navbar{
+   background: rgb(241, 166, 24);
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px;   
+}
+.navbar a {
+color: #fff;
+display: inline-block;
+padding: 20px;
+width: 100%;
+text-align: center;
+color: #000;
+transition: .3s ease-out all;
+}
+.navbar a:hover {
+    background: #0ee24e;
+    color: #fff;
+    text-decoration: none;
+}
+.contenedor {
+    max-width: 1000px;
+     width: 85%;
+     margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.aside{
+    float: right;
+    margin-right: 50px;
+}
+.parrafo1{
+        margin-left: 20px;
+        margin-right: 90px;
+       left: 1000;
+        margin-top: 40px;
+        background-color: #eaf2e3;
+        width: 500px;
+        height: 540px;
+        text-align: center;
+        border-radius: 30px;
+        border: solid green ;
+        filter: drop-shadow(8px 8px 4px aqua);
+        float: right;
+}
+.parrafo2{
+        margin-left: 500px;
+        margin-right: 130px;
+        left: 1000;
+        margin-top: 22px;
+        background-color:#eaf2e3;
+        width: 500px;
+        height: 540px;
+        border-radius: 30px;
+        border: solid green;
+        filter: drop-shadow(8px 8px 4px aqua);
+        text-align: center;
+    }
+
+
+.parrafo3{
+        margin-left: 20px;
+        margin-right: 90px;
+        left: 1000;
+        margin-top: 22px;
+        background-color: #EAF2E3;
+        width: 500px;
+        height: 500px ;
+        float: right;
+        text-align: center;
+        border-radius: 30px;
+        border: solid green;
+        filter: drop-shadow(8px 8px 4px aqua);
+    }
+
+.parrafo4{
+    margin-left: 500px;
+    margin-right: 130px;
+   left: 1000;
+    margin-top: 8px;
+    background-color:#EAF2E3;
+    width: 500px;
+    height: 500px;
+    border-radius: 30px;
+    border: solid green;
+    filter: drop-shadow(8px 8px 4px aqua);
+    text-align: center; 
+   
+}
+.subtitulo{
+    font-size: arial;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-left: 300px;
+}
+.articulo{
+    text-align: left;
+    margin-left: 40px;  
+}
+.ultimo{
+    text-align: center;
+    margin-top: 10px;
+    height: 100px;
+    width: 100%;
+    padding: 2.5px;
+    float: left;
+    overflow:hidden;
+    text-align: center;
+    box-shadow: 0 0 20px 0;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.lateral{
+    float: left;
+    color: #000;
+    left: 200px;
+    margin-top: 50px;
+    margin-right: 150px;
+    margin-left: 50px;
+}
+.operativo{
+    text-align: left;
+    margin-left: 20p;
+}

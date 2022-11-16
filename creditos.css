@@ -1,0 +1,119 @@
+.body{
+    margin: 20px;
+    padding: 0;
+    background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT5PXqQ6kFS6yyPcEOwSNhC39fRwwsNrgGEoA&usqp=CAU);   
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    
+}
+.logo{
+    filter: drop-shadow(8px 8px 4px aqua);
+    text-align: center;
+    
+}
+.titulo{
+    text-align: center;
+}
+.navbar{
+   background: rgb(241, 166, 24);
+    margin-top: 30px;
+    margin-left: 50px;
+    margin-right: 50px; 
+    
+   
+}
+.navbar a {
+color: #fff;
+display: inline-block;
+padding: 20px;
+width: 100%;
+text-align: center;
+color: #000;
+transition: .3s ease-out all;
+}
+.navbar a:hover {
+    background: #0ee24e;
+    color: #fff;
+    text-decoration: none;
+}
+.contenedor {
+    max-width: 1000px;
+     width: 85%;
+     margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+.parrafo1{
+    margin-left: 100px;
+    margin-right: 130px;
+   left: 1000;
+    margin-top: 40px;
+    background-color: #eaf2e3;
+    width: 600px;
+    height: 500px;
+    text-align: center;
+    border-radius: 30px;
+    border: solid green ;
+    filter: drop-shadow(8px 8px 4px aqua);
+    float: right;
+}
+.parrafo2{
+    margin-left: 130px;
+    margin-right: 130px;
+    left: 1000;
+    margin-top: 22px;
+    background-color:#eaf2e3;
+    width: 600px;
+    height: 500px;
+    border-radius: 30px;
+    border: solid green;
+    filter: drop-shadow(8px 8px 4px aqua);
+    text-align: center;
+
+}
+.parrafo3 {
+    margin-left: 100px;
+    margin-right: 130px;
+    left: 1000;
+    margin-top: 40px;
+    background-color: #EAF2E3;
+    width: 600px;
+    height: 500px ;
+    float: right;
+    text-align: center;
+    border-radius: 30px;
+    border: solid green;
+    filter: drop-shadow(8px 8px 4px aqua);
+}
+.parrafo4{
+    margin-left: 130px;
+    margin-right: 130px;
+   left: 1000;
+    margin-top: 10px;
+    background-color:#EAF2E3;
+    width: 600px;
+    height: 500px;
+    border-radius: 30px;
+    border: solid green;
+    filter: drop-shadow(8px 8px 4px aqua);
+    text-align: center; 
+}
+.articulo1{
+   text-align: left;
+   margin-left: 22px;
+}
+.ultimo{
+    text-align: center;
+    margin-top: 29px;
+    height: 100px;
+    width: 100%;
+    padding: 2.5px;
+    float: left;
+    overflow:hidden;
+    text-align: center;
+    box-shadow: 0 0 20px 0;
+    border-radius: 10px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
